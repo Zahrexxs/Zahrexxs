@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Zahri — Backend Engineer</title>
+<style>
+  :root { --fg:#1c1c1e; --muted:#6b6b70; --bg:#fbfbfa; --card:#fff; --line:#e6e6e3; --accent:#0a5ad6; }
+  @media (prefers-color-scheme: dark) {
+    :root { --fg:#e9e9ea; --muted:#9a9a9f; --bg:#141416; --card:#1c1c1f; --line:#2c2c30; --accent:#6aa6ff; }
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--fg);
+         font:16px/1.65 ui-sans-serif,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; }
+  main { max-width:720px; margin:0 auto; padding:64px 24px 80px; }
+  h1 { font-size:2rem; margin:0 0 4px; letter-spacing:-.02em; }
+  .tagline { color:var(--muted); margin:0 0 40px; font-size:1.05rem; }
+  h2 { font-size:1rem; text-transform:uppercase; letter-spacing:.09em;
+       color:var(--muted); margin:44px 0 16px; font-weight:600; }
+  .card { display:block; background:var(--card); border:1px solid var(--line);
+          border-radius:10px; padding:18px 20px; margin-bottom:12px; text-decoration:none; color:inherit; }
+  .card:hover { border-color:var(--accent); }
+  .card b { display:block; font-size:1.02rem; margin-bottom:3px; }
+  .card span { color:var(--muted); font-size:.92rem; }
+  .icons { display:flex; gap:12px; flex-wrap:wrap; margin-top:4px; }
+  .icons a { display:inline-block; padding:7px 14px; border:1px solid var(--line);
+             border-radius:999px; text-decoration:none; color:var(--fg); font-size:.9rem; background:var(--card); }
+  .icons a:hover { border-color:var(--accent); color:var(--accent); }
+  footer { margin-top:56px; padding-top:20px; border-top:1px solid var(--line); color:var(--muted); font-size:.85rem; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Zahri</h1>
+  <p class="tagline">
+    Backend engineer working on retrieval systems — Go services, ingestion pipelines,
+    and eval harnesses for RAG. Based in Indonesia.
+  </p>
+
+  <h2>Selected work</h2>
+  <a class="card" href="https://github.com/Zahrexxs/Sport-Analysis-Project">
+    <b>AHMA — Automated Human Motion Analysis</b>
+    <span>MediaPipe pose landmarks, One Euro filtering, joint-angle derivation, PDF/CSV export.</span>
+  </a>
+  <a class="card" href="https://github.com/Zahrexxs/Process-Aceh-Population-Data">
+    <b>Aceh Population Data Pipeline</b>
+    <span>Cleaning and validating messy public-sector census records in Python.</span>
+  </a>
+  <a class="card" href="https://github.com/Zahrexxs/tdmrc-disaster-dashboard">
+    <b>TDMRC Disaster Dashboard</b>
+    <span>Production Docker deployment for a disaster-mitigation dashboard. Node, Postgres, Nginx.</span>
+  </a>
+
+  <h2>Contact</h2>
+  <div class="icons">
+    <a href="mailto:azzahri17@gmail.com">Email</a>
+    <a href="https://www.linkedin.com/in/muhammad-naufal-azzahri">LinkedIn</a>
+    <a href="https://www.kaggle.com/naufalazzahri">Kaggle</a>
+    <a href="https://github.com/Zahrexxs">GitHub</a>
+  </div>
+
+  <footer>Looking for backend or data engineering roles.</footer>
+</main>
+</body>
+</html>
