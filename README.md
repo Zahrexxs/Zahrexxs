@@ -1,8 +1,8 @@
 <h1 align="left">Hi, I'm Zahri</h1>
 
 <p align="left">
-Backend engineer working on retrieval systems — Go services, ingestion pipelines, and eval harnesses for RAG.
-Based in Indonesia. Open to backend and data engineering roles.
+Network engineer working on retrieval systems — Go services, ingestion pipelines, and eval harnesses for RAG.
+Based in Indonesia. Open to network and data engineering roles.
 </p>
 
 <h3 align="left">Currently</h3>
