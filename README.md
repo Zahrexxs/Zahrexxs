@@ -7,6 +7,7 @@
 Based in Indonesia · open to network and data engineering roles.
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:azzahri17@gmail.com)
+[![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://zahrexxs.github.io/Zahrexxs/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-naufal-azzahri)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/naufalazzahri)
 
@@ -25,6 +26,7 @@ Based in Indonesia · open to network and data engineering roles.
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[WireLog](https://github.com/Zahrexxs/WireLog)** | Mobile-first Google Apps Script app that logs network-engineering tasks straight into Google Sheets. Offline queue, server clock sync, formula-injection guard, 24 tests. | JavaScript · Apps Script · Google Sheets · Docker |
 | **[AHMA — Sport Analysis](https://github.com/Zahrexxs/Sport-Analysis-Project)** | Turns video into joint-angle time series, plots and PDF reports using pose landmarks. The hard part is making frame-level output readable for non-technical users. | Python · MediaPipe · FastAPI |
 | **[Aceh Population Data](https://github.com/Zahrexxs/Process-Aceh-Population-Data)** | Cleans messy BPS census exports and aggregates them to district, sub-district and village level. Configurable filters, validated inputs, tested. | Python · pandas · openpyxl |
 | **[TDMRC Disaster Dashboard](https://github.com/Zahrexxs/tdmrc-disaster-dashboard)** | Docker deployment for a disaster-mitigation dashboard: Node, Postgres and Nginx behind Compose, with Leaflet maps. Built to run offline in the field. | Node.js · PostgreSQL · Docker |
