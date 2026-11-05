@@ -27,9 +27,9 @@ Based in Indonesia · open to network and data engineering roles.
 | Project | What it does | Stack |
 |---|---|---|
 | **[WireLog](https://github.com/Zahrexxs/WireLog)** | Mobile-first Google Apps Script app that logs network-engineering tasks straight into Google Sheets. Offline queue, server clock sync, formula-injection guard, 24 tests. | JavaScript · Apps Script · Google Sheets · Docker |
-| **[AHMA — Sport Analysis](https://github.com/Zahrexxs/Sport-Analysis-Project)** | Turns video into joint-angle time series, plots and PDF reports using pose landmarks. The hard part is making frame-level output readable for non-technical users. | Python · MediaPipe · FastAPI |
-| **[Aceh Population Data](https://github.com/Zahrexxs/Process-Aceh-Population-Data)** | Cleans messy BPS census exports and aggregates them to district, sub-district and village level. Configurable filters, validated inputs, tested. | Python · pandas · openpyxl |
-| **[TDMRC Disaster Dashboard](https://github.com/Zahrexxs/tdmrc-disaster-dashboard)** | Docker deployment for a disaster-mitigation dashboard: Node, Postgres and Nginx behind Compose, with Leaflet maps. Built to run offline in the field. | Node.js · PostgreSQL · Docker |
+| **[Kinema](https://github.com/Zahrexxs/Kinema)** | Turns video into joint-angle time series, plots and PDF reports using pose landmarks. The hard part is making frame-level output readable for non-technical users. | Python · MediaPipe · FastAPI |
+| **[Tally](https://github.com/Zahrexxs/Tally)** | Cleans messy BPS census exports and aggregates them to district, sub-district and village level. Configurable filters, validated inputs, tested. | Python · pandas · openpyxl |
+| **[CrisisDeck](https://github.com/Zahrexxs/CrisisDeck)** | Offline-first disaster reporting dashboard: Node, Postgres and Nginx behind Compose, with a Leaflet map and a reports API. | Node.js · PostgreSQL · Docker |
 
 ## Toolbox
 
